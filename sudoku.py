@@ -86,4 +86,4 @@ if result:
         print(' '.join(str(x) for x in row))
     
 else:
-    print("❌ Vo nghiem!")
+    print("")
